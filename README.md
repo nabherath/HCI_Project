@@ -1,7 +1,7 @@
 # HCI_Project
 
-User Name - admin
-password - 1234
+##User Name - admin 
+##password - 1234
 
 # Requirements - 
       vscode 
